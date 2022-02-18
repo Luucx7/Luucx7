@@ -1,7 +1,7 @@
 # Hello! Olá! おはよう！
 <div>
 I'm Lucas, a programmer from Brazil.<br>
-I started programming with minecraft plugins while studying algorithms on highschool.<br>
+I started programming with minecraft plugins while studying algorithms in highschool.<br>
 I'm also a Computer Technician, and I love OOP.<br>
 <br>
 - 🔭 I’m currently working on Sway.<br>
